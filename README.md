@@ -15,6 +15,3 @@ This project simulates the Depth-First Search (DFS) Spanning Tree algorithm to d
 - [GraphStream](http://graphstream-project.org/) Library
 - IntelliJ IDEA (Recommended)
 - Java Swing (for GUI)
-
-## 📁 Project Structure
-
